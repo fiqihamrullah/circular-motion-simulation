@@ -8,7 +8,8 @@ Feel Free to use for learning purpose.
 
  ## **Video Demo**
 
- Here's  [link](https://drive.google.com/file/d/1J7fAOu55cbHtJKwReAz9-QViBdlIWaOX/view?usp=drive_link)  to watch how it works
+https://github.com/fiqihamrullah/circular-motion-simulation/assets/68839112/3bedd674-f03a-4e98-b53e-9272fb7802e9
+
 
 
 ## Run Locally
